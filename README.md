@@ -33,8 +33,6 @@ pip install pandas matplotlib
 El análisis principal se encuentra en el archivo `AluraStoreLatam.ipynb`. Puedes abrirlo con Jupyter Notebook, Jupyter Lab o Google Colab.
 > **Nota:** El código descarga automáticamente los datasets desde el repositorio del challenge, por lo que se requiere conexión a internet.
 
----
-
 ##  Resumen de Hallazgos (Data Insights)
 
 ### 1. Ranking de Facturación (Ingresos Totales)
@@ -64,8 +62,6 @@ Se generaron visualizaciones detalladas (Bar Charts horizontales) para entender 
 * **Tienda 1 (Top):** Microondas y TV LED (Alto volumen y ticket medio).
 * **Tienda 4 (Top):** Cama Box y Cubertería (Ticket alto pero insuficiente volumen total).
 * **Problema General:** Todas las tiendas presentan estancamiento en categorías de tecnología menor (Auriculares) e instrumentos musicales.
-
----
 
 ## Conclusión y Recomendación Final
 
